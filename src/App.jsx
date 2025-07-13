@@ -28,43 +28,43 @@ const App = () => {
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-03.jpg"
+            source="./assets/img/egg-recipe-03.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-04.jpg"
+            source="./assets/img/egg-recipe-04.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-05.jpg"
+            source="./assets/img/egg-recipe-05.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-06.jpg"
+            source="./assets/img/egg-recipe-06.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-07.jpg"
+            source="./assets/img/egg-recipe-07.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-08.jpg"
+            source="./assets/img/egg-recipe-08.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-09.jpg"
+            source="./assets/img/egg-recipe-09.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-10.jpg"
+            source="./assets/img/egg-recipe-10.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-11.jpg"
+            source="./assets/img/egg-recipe-11.jpg"
             title="ကြက်ဉကြော်"
           />
           <RecipeCard
-            source="/assets/img/egg-recipe-12.jpg"
+            source="./assets/img/egg-recipe-12.jpg"
             title="ကြက်ဉကြော်"
           />
         </div>
