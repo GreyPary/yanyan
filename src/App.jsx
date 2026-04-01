@@ -7,7 +7,7 @@ const App = () => {
       <Navbar />
       <main className="flex flex-1 flex-col items-center p-6 gap-2">
         <img
-          src="./assets/user-yan-yan.jpg"
+          src="./assets/react.svg"
           alt=""
           className="w-40 aspect-square rounded-full shadow-lg"
         />
